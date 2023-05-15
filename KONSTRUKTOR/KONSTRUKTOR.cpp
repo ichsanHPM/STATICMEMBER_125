@@ -46,7 +46,11 @@ void mahasiswa::cetak()
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa mhs1;
+    mahasiswa mhs2(20);
+    mahasiswa mhs3("Indra");
+    mahasiswa mhs4(30, "Fauzan");
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
