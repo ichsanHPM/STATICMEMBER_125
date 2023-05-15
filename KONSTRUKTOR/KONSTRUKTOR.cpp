@@ -43,6 +43,7 @@ void mahasiswa::cetak()
     cout << "Nama = " << nama << endl;
 }
 
+
 int main()
 {
     std::cout << "Hello World!\n";
