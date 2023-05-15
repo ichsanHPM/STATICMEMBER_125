@@ -27,9 +27,15 @@ void mahasiswa::printALL() {
 
 int main() {
     mahasiswa mhs1("Aulia");
-    mahasiswa mhs1("Asroni");
-    mahasiswa mhs1("Andi Kurniawan");
-    mahasiswa mhs1("Joko Purbo");
+    mahasiswa mhs2("Asroni");
+    mahasiswa mhs3("Andi Kurniawan");
+    mahasiswa mhs4("Joko Purbo");
+
+    mhs1.printALL();
+    mhs2.printALL();
+    mhs3.printALL();
+    mhs4.printALL();
+    return 0;
 }
 
 
