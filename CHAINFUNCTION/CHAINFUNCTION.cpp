@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-class buku
+class pena
 {
     string judul;
 
