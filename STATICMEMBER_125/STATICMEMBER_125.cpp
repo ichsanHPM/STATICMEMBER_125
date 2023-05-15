@@ -38,6 +38,10 @@ int main() {
     return 0;
 }
 
+void mahasiswa::setID() {
+
+}
+
 
 int main()
 {
