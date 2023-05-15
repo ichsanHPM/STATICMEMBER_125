@@ -33,6 +33,12 @@ mahasiswa::mahasiswa(string iNama)
 
 mahasiswa::mahasiswa(int iNim, string iNama)
 {
+    nim = iNim;
+        nama = iNama;
+}
+
+void mahasiswa::cetak()
+{
 
 }
 
