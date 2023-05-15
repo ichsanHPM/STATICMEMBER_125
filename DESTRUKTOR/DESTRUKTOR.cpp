@@ -13,6 +13,10 @@ public:
     void isiData();
 };
 //definisi member function
+angka::angka(int i)         //constructor
+{
+    
+}
 
 int main()
 {
