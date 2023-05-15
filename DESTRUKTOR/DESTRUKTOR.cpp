@@ -28,6 +28,11 @@ angka::~angka()             //destrucktor
     cout << "Alamat Array Sudah Dilepaskan" << endl;
 }
 
+void angka::isiData()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
