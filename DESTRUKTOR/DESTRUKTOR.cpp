@@ -47,8 +47,12 @@ void angka::isiData()
 
 int main()
 {
-    std::cout << "Hello World!\n";
-}
+    angka belajarcpp(3);            //construcktor dipanggil
+    angka* ptrBelajarcpp = new angka(5);        //construcktor dipanggil
+    delete ptrBelajarcpp;           //destrucktor dipanggil
+
+    return 0;
+}       //destructor dipanggil
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
