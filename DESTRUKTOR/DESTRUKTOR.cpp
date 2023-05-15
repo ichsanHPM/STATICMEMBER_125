@@ -6,6 +6,10 @@ class angka
 private:
     int* arr;
     int panjang;
+public:
+    angka(int);             //constructor
+    ~angka();               //destructor
+
 };
 
 int main()
