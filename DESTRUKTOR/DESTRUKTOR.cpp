@@ -20,6 +20,11 @@ angka::angka(int i)         //constructor
     isiData();
 }
 
+angka::~angka()             //destrucktor
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
