@@ -51,6 +51,12 @@ int main()
     mahasiswa mhs3("Indra");
     mahasiswa mhs4(30, "Fauzan");
 
+    mhs1.cetak();
+    mhs2.cetak();
+    mhs3.cetak();
+    mhs4.cetak();
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
