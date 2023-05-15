@@ -19,6 +19,7 @@ public:
 int main()
 {
     // bukunya.setjudul("Matematiaka");
+    // cout << bukunya.getjudul();
 }
 
 
