@@ -12,6 +12,7 @@ public:
     void cetakData();
     void isiData();
 };
+//definisi member function
 
 int main()
 {
