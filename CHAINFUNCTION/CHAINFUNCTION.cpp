@@ -14,7 +14,7 @@ public:
     {
         return this->judul;
     }
-} bukunya;
+} pensilnya;
 
 int main()
 {
