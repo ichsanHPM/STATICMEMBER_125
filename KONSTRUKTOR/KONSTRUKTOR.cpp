@@ -21,6 +21,11 @@ mahasiswa::mahasiswa()
     nama = "";
 }
 
+mahasiswa::mahasiswa(int iNim)
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
